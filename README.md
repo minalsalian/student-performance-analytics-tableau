@@ -94,5 +94,6 @@ CSV
 
 ## 📸 Dashboard Preview
 
-![Student Performance Dashboard](<img width="988" height="830" alt="dashboard" src="https://github.com/user-attachments/assets/bfeec2dc-f64a-438c-8424-cd18c8e0c941" />
+![Student Performance Dashboard](<img width="988" height="830" alt="dashboard" src="https://github.com/user-attachments/assets/3e283caa-71d3-4f8d-a07f-2c346114c553" />
+
 )
