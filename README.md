@@ -91,3 +91,8 @@ subject_id,
 
 Tableau Desktop,
 CSV
+
+## 📸 Dashboard Preview
+
+![Student Performance Dashboard](<img width="988" height="830" alt="dashboard" src="https://github.com/user-attachments/assets/bfeec2dc-f64a-438c-8424-cd18c8e0c941" />
+)
